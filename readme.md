@@ -7,9 +7,6 @@ This project focuses on predicting diabetes progression using a Decision Tree Re
 ## Project Structure
 
 - **notebook.ipynb**: Contains the code for data preprocessing, training the Decision Tree Regressor, and hyperparameter tuning.
-- **data/**: (Optional) Directory where the dataset used for training and testing the model is stored.
-- **models/**: (Optional) Directory to save trained models.
-- **results/**: (Optional) Directory to save the results of the predictions and evaluation metrics.
 - **.gitignore**: Specifies files and directories to be ignored in the repository.
 - **requirements.txt**: Lists all the Python packages required to run the project.
 - **LICENSE**: Contains the licensing information for the project.
