@@ -71,7 +71,7 @@ To run the project:
 - Fine-tune hyperparameters further for optimal performance.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the `LICENSE` file for details.
 
 ## Acknowledgments
 Thanks to the open-source community for providing excellent tools like scikit-learn, pandas, and others.
